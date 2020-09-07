@@ -3,6 +3,6 @@ bases:
 
 images:
 - name: sriram323/sampleagrocd
-  newTag: 7cef40b
+  newTag: cb03e9cff72859f59568579b3d1efe0bd4d6c7dd
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
