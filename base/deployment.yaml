@@ -17,3 +17,5 @@ spec:
         image: sriram323/sampleagrocd:latest
         ports:
         - containerPort: 8080
+      imagePullSecrets:
+      - name: regcred
